@@ -1,7 +1,7 @@
 
-## Date: 29-08-2026
+## Date: 05-09-2026
 
-# SEM-3 Week 3 Practice Problems
+# SEM-3 Week 5 Practice Problems
 
 ## Today's Work
 
@@ -10,11 +10,11 @@
 
 ## Issues Faced
 
-Understanding prefix and suffix products.
-Handling duplicate values in 3Sum.
-Understanding prefix sums with HashMap.
-Implementing binary search for a rotated array.
-
+Understanding array modification through methods.
+Handling duplicate player names.
+Finding minimum, maximum, and spread.
+Working with 2D arrays and row averages.
+Implementing Comparable and overloaded methods.
 
 ## Next Session Plan
 
