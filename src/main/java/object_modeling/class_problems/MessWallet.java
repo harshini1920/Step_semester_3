@@ -1,4 +1,4 @@
-package object_modeling.class_problems
+package object_modeling.class_problems;
 
 class MessWallet {
     private double balance;

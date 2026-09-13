@@ -1,4 +1,4 @@
-package obkect_modeling.class_problems
+package object_modeling.class_problems;
 
 class Course {
     String code;
