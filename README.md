@@ -1,7 +1,7 @@
 
-## Date: 12-09-2026
+## Date: 19-09-2026
 
-# SEM-3 Week 5 Practice Problems
+# SEM-3 Week 6 Practice Problems
 
 ## Today's Work
 
@@ -10,7 +10,8 @@
 
 ## Issues Faced
 
-Understanding variables using this keywors
+Understanding variables using this keywords
+
 
 ## Next Session Plan
 
