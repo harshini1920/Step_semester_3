@@ -1,20 +1,20 @@
 
-## Date: 24-10-2026
+## Date: 31-10-2026
 
 ## Today's Work
 
-# Week 9 - Category C Coding Assignment
+# Week 10 - Category C Coding Assignment
 
 Concepts Used
-DSA
+Sorting
 
 ## Conclusion
 
-The exercise demonstrates how DSA concepts can be used to handle different types of objects through common base classes while allowing each type to have its own behavior.
+The exercise demonstrates how Sorting concepts can be used to handle different types of objects through common base classes while allowing each type to have its own behavior.
 
 ## Issues Faced
 
-Understanding how to use dsa concepts in java.
+Understanding how to use sorting concepts in java.
 
 ## Next Session Plan
 
